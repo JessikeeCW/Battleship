@@ -16,11 +16,10 @@ After the install has finished, from the main directory, run the following comma
 npm start
 # or
 yarn start
-
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Tech/Frameworks Used
-
+# Tech/Frameworks Used
 - React
 
 
