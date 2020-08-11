@@ -28,5 +28,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - [React Docs](https://reactjs.org/docs/getting-started.html) 
 
-##Approach
+## Approach
 My appraoch to this take-home was to get the basic features working. I initially started with my gameboard to make sure that it is rendering the correct amount of squares. Next I worked on getting my game functionality working. I needed to compare the clicked button with the location of the boats. If the button that was clicked is a location of a boat then it was a hit. Otherwise, display it as a miss. If I had more time, I would have incorporated features such as a restart once the player has used up all of their chances. I also would have styled the gameboard more to make it more visually appealing for the player. 
