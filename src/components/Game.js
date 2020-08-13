@@ -23,7 +23,7 @@ class Game extends Component {
     for (let i = 0; i < ships.length; i++) {
       let position = ships[i].positions;
       //loops through the nested array/location of the boats and compares it with the the button that is pushed
-      for (let i = 0; i < position.length; i++) {
+      for (let j = 0; j < position.length; j++) {
         if (position[i][0] === x && position[i][1] === y) {
           alert(`Hit at ${[x, y]}`);
           this.setState({ hits: hits + 1 });
